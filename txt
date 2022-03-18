@@ -1,10 +1,10 @@
-Ausztrália;Kakadu Nemzeti Park;1979.
-Malawi;Malawi-tó Nemzeti Park;1980.
-Lengyelország;Waweli székesegyház;1020.
-Nigéria;Yankari Game Reserve;1991.
+Ausztrália;Kakadu Nemzeti Park;1979. április 5
+Malawi;Malawi-tó Nemzeti Park;1984.
+Lengyelország;Wrocław Africarium;2014.
+Nigéria;Yankari Game Reserve;1956.
 Ecuador;Church of la Compañía de Jesús;1765.
 Szváziföld;Hlane Royal Nemzeti Park;1967.
-Tádzsikisztán;Nurek-gát;1980.
-Suriname;Paramaribo Zoo;1972.
-Románia;Vajdahunyadi vár;1908.
-Dnyeszter Menti Köztársaság;Dmitry Rodin Park;1919.
+Tádzsikisztán;Iszmoilí Szomoní-csúcs;1928.
+Suriname;Arya Dewaker;2001 Február 11.
+Románia;Vajdahunyadi vár;1409. október 18-án.
+Elefántcsontpart;Taï National Park;1972 augusztus 28.
